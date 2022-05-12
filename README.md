@@ -2,7 +2,7 @@
 
 ## Одностроничный сайт, проектная работа в Яндекс.Практикуме.
 
-[Ссылка на проект](https://etelo.github.io/russian-travel-1/index.html) 
+[Ссылка на проект](https://etelo.github.io/russian-travel/index.html) 
 
 ### Технологии, использованные в проекте:
 * Адаптивная верстка
