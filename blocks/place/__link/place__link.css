@@ -1,5 +1,5 @@
 .place__link {
-font-family: 'Inter';
+font-family: 'Inter', Arial;
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -8,3 +8,9 @@ text-decoration-line: underline;
 color: #FFFFFF;
 }
 
+@media screen and (max-width: 321px) {
+  .place__link {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

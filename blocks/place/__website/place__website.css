@@ -1,5 +1,15 @@
 .place__website {
+  /* border: 1px double red; */
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+}
+
+@media screen and (max-width: 321px) {
+  .place__title {
+    max-width: 288px;
+    max-height: 35px;
+    font-size: 32px;
+    line-height: 35px;
+  }
 }

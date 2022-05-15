@@ -1,9 +1,10 @@
 .footer__copiright {
-  font-family: 'Inter';
+  font-family: 'Inter', Arial;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 16px;
+  /* right: 0; */
   margin-left: auto;
   color: #FFFFFF;
 }
