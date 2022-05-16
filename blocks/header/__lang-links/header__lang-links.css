@@ -1,5 +1,6 @@
 .header__lang-links {
   margin: 0;
   display: flex;
+  margin-top: auto;
   margin-left: auto;
 }
