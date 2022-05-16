@@ -1,9 +1,16 @@
 .place__paragraph {
-  margin: 0 auto 26px;
+  /* border: 1px double rgb(0, 225, 255); */
+  margin: 0 auto 0;
+}
+
+.place__paragraph:nth-child(2n) {
+  /* border: 1px double rgb(255, 208, 0); */
+  margin: 27px auto 0;
 }
 
 @media screen and (max-width: 769px) {
-  .place__paragraph {
-    margin-bottom: 25px;
+  .place__paragraph:nth-child(2n) {
+    /* border: 1px double red; */
+    margin: 25px auto 0;
   }
 }
