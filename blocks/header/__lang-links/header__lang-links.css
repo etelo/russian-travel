@@ -1,6 +1,10 @@
 .header__lang-links {
-  margin: 0;
+  margin: auto 0 6px auto;
   display: flex;
-  margin-top: auto;
-  margin-left: auto;
+}
+
+@media screen and (max-width: 321px) {
+  .header__lang-links {
+    margin: auto 0 8px auto;
+  }
 }
